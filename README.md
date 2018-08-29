@@ -47,3 +47,9 @@ The receive a file from a remote machine
 Future plans (patches welcome)
 
  - Visual progress bar indicator
+ 
+ colors
+ ------------------------------------
+"iterm2_wjl.itermcolors" is color config file.
+
+Opening iterm2,then open menu "iTerm2 --> preferences--> Profiles --> Default --> Colors --> Color Presets --> Import" and import the "iterm2_wjl.itermcolors"file.
